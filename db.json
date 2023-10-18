@@ -1,0 +1,85 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "title": "Pancakes",
+        "price": 11.99,
+        "category": "breakfast",
+        "img": "./images/item-1.jpeg",
+        "desc": "The taste of milk in buttermilk pancakes! Add flavor to your day with our soft textured pancakes."
+      },
+      {
+        "id": 2,
+        "title": "Double Hamburger",
+        "category": "lunch",
+        "price": 13.99,
+        "img": "./images/item-2.jpeg",
+        "desc": "Our double burger, prepared in diner style, is the perfect choice for your lunch with its delicious taste and satisfying texture!"
+      },
+      {
+        "id": 3,
+        "title": "Godzilla Milkshake",
+        "category": "shakes",
+        "price": 6.99,
+        "img": "./images/item-3.webp",
+        "desc": "A legendary taste awaits you! Pamper yourself with our Godzilla Milkshake and take a sweet break."
+      },
+      {
+        "id": 4,
+        "title": "Breakfast",
+        "category": "breakfast",
+        "price": 20.99,
+        "img": "./images/item-4.jpeg",
+        "desc": "The indispensable taste of village breakfasts is now here! Village Taste breakfast, prepared with completely natural ingredients, invites you to a delicious feast of taste."
+      },
+      {
+        "id": 5,
+        "title": "Egg Attack",
+        "category": "lunch",
+        "price": 22.99,
+        "img": "./images/item-5.jpeg",
+        "desc": "Köy breakfastlarının vazgeçilmez lezzeti artık burada! Tamamen doğal malzemelerle hazırlanan Köy Lezzeti breakfastsı, sizleri enfes bir lezzet şölenine davet ediyor."
+      },
+  
+      {
+        "id": 6,
+        "title": "Oreo Dream",
+        "category": "shakes",
+        "price": 18.99,
+        "img": "./images/item-6.jpeg",
+        "desc": "A wonderful flavor for Oreo lovers! Oreo Dream takes you to a sweet world. You can't get enough of its taste!"
+      },
+      {
+        "id": 7,
+        "title": "Bacon Power",
+        "category": "breakfast",
+        "price": 8.99,
+        "img": "./images/item-7.jpeg",
+        "desc": "A must for breakfast for bacon lovers! Bacon Seli, prepared with plenty of freshly fried bacon and other delicacies, will give you a great start to the day."
+      },
+      {
+        "id": 8,
+        "title": "Classic American Flavor",
+        "category": "lunch",
+        "price": 12.99,
+        "img": "./images/item-8.jpeg",
+        "desc": "This lunch, prepared with the classic flavors of American cuisine, offers an unforgettable experience. Moreover, it is preferred due to its affordable price!"
+      },
+      {
+        "id": 9,
+        "title": "Quarantine Friend",
+        "category": "shakes",
+        "price": 16.99,
+        "img": "./images/item-9.jpeg",
+        "desc": "A delicious milkshake that will not leave you alone when you are bored during quarantine days! Have a sweet getaway with Quarantine Buddy."
+      },
+      {
+        "id": 10,
+        "title": "Bison Steak",
+        "category": "lunch",
+        "price": 22.99,
+        "img": "./images/item-10.jpeg",
+        "desc": "The unique flavor of bison meat is combined with special spices and sauces. Bison Steak is the perfect choice for your dinner!"
+      }
+    ]
+  }
