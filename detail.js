@@ -35,10 +35,10 @@ function renderPage(product) {
   />
 
   <div>
-    <h3 class="mt-4">Ürünün Kategorisi: <span class="text-success">${
+    <h3 class="mt-4">Category of the product: <span class="text-success">${
       product.category
     }</span></h3>
-    <h3 class="my-4">Ürünün Fiyatı: <span class="text-success">$${
+    <h3 class="my-4">Price of the product: <span class="text-success">$${
       product.price
     }</span></h3>
   </div>
