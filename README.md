@@ -4,6 +4,8 @@ This project is a dynamic restaurant menu site created using HTML, CSS, and Java
 
 # Demo
 
+![Our Menu](https://github.com/UmitAygunn/QR-Menu/assets/140657845/f670204f-7c17-4398-a28e-381d6785d622)
+
 Live Demo - Explore the live demo of the dynamic restaurant menu site to access and view the restaurant's menu items.
 1) https://6533b2338b4dfd10ef51f544--chic-profiterole-31a918.netlify.app/
 
